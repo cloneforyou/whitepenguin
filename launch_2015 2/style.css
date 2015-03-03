@@ -1,0 +1,157 @@
+
+/*Employer Portal CSS*/
+
+#menu-jobs:hover {
+	text-decoration:;
+
+}
+
+ul	 {
+	list-style-type: none;
+}
+
+.picturesize {
+	float:left;
+	max-height: 100%; 
+	max-width: 100%
+}
+
+.company {
+	padding: 25px;
+	background-color: #eeeeee;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	border-bottom: none;
+
+}
+
+.company-list {
+	height: 650px;
+}
+
+
+.time-slot-default {
+	border-left:none;
+	text-align: right;
+}
+
+.btn-sm {
+	width: 85px;
+}
+
+.dayname {
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 100px;
+	padding-bottom: 10px;
+}
+
+.time-grid {
+	padding-left: 100px;
+}
+
+.time-slot {
+	border-color: #eeeeee;
+	border-width: 1px;
+	border-style: solid;
+	border-bottom: none;
+	border-top: none;
+	padding: 15px;
+	text-align: center;
+	height: 50px;
+}
+
+.today {
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.date{
+	font-size: 18px;
+	color: #cccccc;
+	float: right;
+}
+
+.selector {
+	font-size: 18px;
+	color: #cccccc;
+	float: right;
+	margin-left: 410px;
+}
+
+.heading {
+	padding-left: 25px;
+}
+
+#company-name {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.person {
+	max-width: 50%;
+	max-height: 50%;
+	text-align: center;
+}
+
+.info-candidate {
+}
+
+.candidate{
+	text-align: center;
+}
+
+.candidate-links {
+	text-align: left;
+}
+.candidate-links:hover{
+	text-decoration: none;
+
+}
+
+.candidates-num {
+	font-size:25px;
+	font-weight: bold;
+}
+
+.candidate-list {
+	height: 550px;
+	overflow: scroll;
+}
+
+.center-images {
+	margin: -20px;
+	margin-right: 5px;
+}
+
+.image-answer-check {
+	max-height: 33%;
+	max-width: 33%;
+	margin-right: 50px;
+	margin-top: -50px;
+}
+
+.image-answer-x {
+	height: 100px;
+	width: 100px;
+	margin-top: -50px;
+}
+
+.image-answer-check {
+	height: 100px;
+	width: 100px;
+	padding: 0px;
+}
+
+.navbar-default {
+	background-color: #18bc9c;
+	border-color: #18bc9c;
+	border-radius: 0px;
+	color: #ffffff;
+}
+
+.center {
+	text-align: center;
+}
+
