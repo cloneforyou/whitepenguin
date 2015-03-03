@@ -84,14 +84,14 @@ ul {
   font-weight: normal;
 }
 
-#company-name {
+.company-name {
 	font-weight: bold;
 	font-size: 18px;
 	margin-bottom: 5px;
 	padding-top: 25px;
 }
 
-#company-tagline {
+.company-tagline {
 	color: #999999;
 	padding-left: 50px;
 	font-size: 16px;
